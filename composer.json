@@ -4,6 +4,7 @@
   "description": "Helper package to download the Drupal cfr module with dependencies, without composer_manager.",
   "type": "drupal-module",
   "require": {
+    "donquixote/d7-cfr-composer": "^0.0.0@alpha",
     "drupal/renderkit": "*",
     "drupal/entdisp": "*",
     "drupal/listformat": "*",
@@ -11,7 +12,6 @@
     "drupal/cfrpreset": "*",
     "drupal/entdisp_example": "*",
     "drupal/cfrblock": "*",
-    "drupal/cfrop": "*",
-    "donquixote/d7-cfr-composer": "^0.0.0@alpha"
+    "drupal/cfrop": "*"
   }
 }
