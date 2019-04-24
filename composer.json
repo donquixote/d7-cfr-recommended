@@ -2,7 +2,7 @@
   "minimum-stability": "dev",
   "name": "donquixote/d7-cfr-recommended",
   "description": "Helper package to download the Drupal cfr module with dependencies, without composer_manager.",
-  "type": "drupal-module",
+  "type": "library",
   "require": {
     "drupal/cfr": "*",
     "drupal/renderkit": "*",
