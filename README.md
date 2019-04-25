@@ -18,3 +18,10 @@ Then enable modules with drush.
 
     cd web
     drush en -y entdisp listformat entdisp_example cfrblock cfrpreset cfrop entdispfieldui
+
+## See if it works
+
+Create a node.
+Visit `node/123/entdisp-example`.
+Choose and configure a display component.
+Hit "Show".
