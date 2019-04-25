@@ -7,7 +7,7 @@ First install your Drupal 7 website with something like https://github.com/drupa
 
     composer create-project drupal-composer/drupal-project:7.x-dev some-dir --no-interaction
 
-Create a database and install Drupal 7.
+Create a database, configure your local webserver, and install Drupal 7.
 
 Then require this package:
 
