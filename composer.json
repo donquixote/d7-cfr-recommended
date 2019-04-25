@@ -11,6 +11,7 @@
     "drupal/entdisp": "*",
     "drupal/entdisp_example": "*",
     "drupal/entdispfieldui": "*",
+    "drupal/entity": "*",
     "drupal/listformat": "*",
     "drupal/renderkit": "*"
   }
