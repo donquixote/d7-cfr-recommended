@@ -5,13 +5,13 @@
   "type": "library",
   "require": {
     "drupal/cfr": "*",
-    "drupal/renderkit": "*",
-    "drupal/entdisp": "*",
-    "drupal/listformat": "*",
-    "drupal/entdispfieldui": "*",
-    "drupal/cfrpreset": "*",
-    "drupal/entdisp_example": "*",
     "drupal/cfrblock": "*",
-    "drupal/cfrop": "*"
+    "drupal/cfrop": "*",
+    "drupal/cfrpreset": "*",
+    "drupal/entdisp": "*",
+    "drupal/entdisp_example": "*",
+    "drupal/entdispfieldui": "*",
+    "drupal/listformat": "*",
+    "drupal/renderkit": "*"
   }
 }
