@@ -28,4 +28,4 @@ Hit "Show".
 
 ## Notes
 Some of the components might require other modules to work.
-E.g. `entity` is a good idea to install.
+E.g. `views` is a good idea to install, but not required for basic functionality.
