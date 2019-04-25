@@ -25,3 +25,7 @@ Create a node.
 Visit `node/123/entdisp-example`.
 Choose and configure a display component.
 Hit "Show".
+
+## Notes
+Some of the components might require other modules to work.
+E.g. `entity` is a good idea to install.
