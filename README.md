@@ -17,7 +17,7 @@ Then require this package:
 Then enable modules with drush.
 
     cd web
-    drush en -y entdisp listformat entdisp_example cfrblock cfrpreset cfrop entdispfieldui
+    drush en -y entdisp listformat entdisp_example cfrblock cfrpreset cfrop entdispfieldui entity
 
 ## See if it works
 
