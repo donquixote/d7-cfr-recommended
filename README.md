@@ -17,13 +17,14 @@ Then require this package:
 Then enable modules with drush.
 
     cd web
-    drush en -y entdisp listformat entdisp_example cfrblock cfrpreset cfrop entdispfieldui entity
+    drush en -y entdisp listformat entdisp_example cfrblock cfrpreset cfrop entdispfieldui entity renderkit_ui
 
 ## See if it works
 
 Create a node.
-Visit `node/123/entdisp-example`.
+Visit `admin/structure/renderkit/preview`.
 Choose and configure a display component.
+Choose the theme in which to show the preview.
 Hit "Show".
 
 ## Notes
