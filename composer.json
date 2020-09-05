@@ -4,6 +4,10 @@
   "description": "Helper package to download the Drupal cfr module with dependencies, without composer_manager.",
   "type": "library",
   "require": {
+    "donquixote/callback-reflection": "~1.0",
+    "donquixote/nicetrace": "~0.0",
+    "donquixote/containerkit": "~0.0",
+    "donquixote/annotation-parser": "~0.0",
     "drupal/cfr": "~2.0",
     "drupal/cfrblock": "*",
     "drupal/cfrop": "*",
